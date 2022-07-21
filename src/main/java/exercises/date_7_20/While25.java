@@ -1,4 +1,4 @@
-package main.java.exercises;
+package main.java.exercises.date_7_20;
 
 public class While25 {
 	public static void main(String[] args) {

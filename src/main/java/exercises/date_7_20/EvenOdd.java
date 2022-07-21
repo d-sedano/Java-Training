@@ -1,4 +1,4 @@
-package main.java.exercises;
+package main.java.exercises.date_7_20;
 
 public class EvenOdd {
 	
